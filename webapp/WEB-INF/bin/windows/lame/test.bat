@@ -1,0 +1,1 @@
+..\lame\lame.exe -b 64 --resample 22.05 input.wav "T:\redesign\catalogs\stockaudio\assets\csaudio\SFXE\ATM\KS092\ATM KS092-12 TimeTria;1201.WAV\audio.mp3"
