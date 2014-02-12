@@ -5,25 +5,30 @@
 		<commandbase>./WEB-INF/bin/mac</commandbase>
 		<exiftoolthumb>./exiftoolthumb.sh</exiftoolthumb>
 		<asperaupload>./aspera/upload.sh</asperaupload>
-		<composite>/usr/local/Cellar/imagemagick/6.7.1-1/bin/convert</composite>
 		<convert>/usr/local/Cellar/imagemagick/6.7.1-1/bin/convert</convert>
+		<composite>/usr/local/Cellar/imagemagick/6.7.1-1/bin/composite</composite>
 		<ffmpeg>/usr/local/Cellar/ffmpeg/0.9/bin/ffmpeg</ffmpeg>
 		<qt-faststart>./qt-faststart</qt-faststart>
 	</commandmap>
 	<commandmap os="LINUX">
 		<commandbase>./WEB-INF/bin/linux</commandbase>
 		<exiftoolthumb>./exiftoolthumb.sh</exiftoolthumb>
+		<mencodermkv>./mencodermkv.sh</mencodermkv>
+		<gitaddrepository>./gitaddrepository.sh</gitaddrepository>
 		<asperaupload>./aspera/upload.sh</asperaupload>
 	</commandmap>
 	<commandmap os="WINDOWS">
 		<commandbase>./WEB-INF/bin/windows</commandbase>
 		<lame>.\lame\lame.exe</lame>
 		<ffmpeg>.\ffmpeg\ffmpeg.exe</ffmpeg>
+		<avconv>C:\win64\usr\bin\avconv.exe</avconv>
 		<convert>c:\Program Files\imageMagick\convert.exe</convert>
 		<composite>c:\Program Files\imageMagick\composite.exe</composite>
 		<exiftool>.\exiftool\exiftool.exe</exiftool>
+		<ghostscript>.\gs\bin\gswin32c.exe</ghostscript>
 		<exiftoolthumb>.\exiftool\exiftoolthumb.bat</exiftoolthumb>
 		<qt-faststart>.\ffmpeg\qt-faststart.exe</qt-faststart>
-		<unlock>.\unlocker\unlocker.exe</unlock>
+		<unlock>.\unlocker\unlocker.exe</unlock>\
+		<soffice>C:\Program Files (x86)\LibreOffice 4\program\soffice.exe</soffice>
 	</commandmap>
 </commandmaps>
