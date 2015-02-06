@@ -22,13 +22,13 @@
 		<lame>.\lame\lame.exe</lame>
 		<ffmpeg>.\ffmpeg\ffmpeg.exe</ffmpeg>
 		<avconv>C:\win64\usr\bin\avconv.exe</avconv>
-		<convert>c:\Program Files\imageMagick\convert.exe</convert>
-		<composite>c:\Program Files\imageMagick\composite.exe</composite>
+		<convert>.\imagemagick\convert.exe</convert>
+		<composite>.\imagemagick\composite.exe</composite>
 		<exiftool>.\exiftool\exiftool.exe</exiftool>
 		<ghostscript>.\gs\bin\gswin32c.exe</ghostscript>
 		<exiftoolthumb>.\exiftool\exiftoolthumb.bat</exiftoolthumb>
 		<qt-faststart>.\ffmpeg\qt-faststart.exe</qt-faststart>
 		<unlock>.\unlocker\unlocker.exe</unlock>\
-		<soffice>C:\Program Files (x86)\LibreOffice 4\program\soffice.exe</soffice>
+		<soffice>.\libreoffice\program\soffice.exe</soffice>
 	</commandmap>
 </commandmaps>
