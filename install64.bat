@@ -33,4 +33,3 @@ setx -m CATALINA_HOME "%INSTALL_DIR%\tomcat"
 
 echo "Installing Tomcat8 Service..."
 call "%INSTALL_DIR%\tomcat\bin\service.bat install"
-call "%INSTALL_DIR%\tomcat\bin\tomcat8w.exe"
