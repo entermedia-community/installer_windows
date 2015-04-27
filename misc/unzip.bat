@@ -1,7 +1,7 @@
 @echo off
 setlocal
-if exist "C:\Entermedia\webapp\ROOT\ROOT.zip" (
-Call :UnZipFile "C:\Entermedia\webapp\ROOT" "C:\Entermedia\webapp\ROOT\ROOT.zip"
+if exist "C:\entermedia\webapp\ROOT\ROOT.zip" (
+Call :UnZipFile "C:\entermedia\webapp\ROOT" "C:\entermedia\webapp\ROOT\ROOT.zip"
 )
 exit /b
 
