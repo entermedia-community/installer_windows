@@ -21,14 +21,16 @@
 		<commandbase>./WEB-INF/bin/windows</commandbase>
 		<lame>.\lame\lame.exe</lame>
 		<ffmpeg>.\ffmpeg\ffmpeg.exe</ffmpeg>
-		<avconv>C:\win64\usr\bin\avconv.exe</avconv>
-		<convert>.\imagemagick\convert.exe</convert>
+		<ffprobe>.\ffmpeg\ffprobe.exe</ffprobe>
+
+<!--		<convert>.\imagemagick\convert.exe</convert>
 		<composite>.\imagemagick\composite.exe</composite>
-		<exiftool>.\exiftool\exiftool.exe</exiftool>
 		<ghostscript>.\gs\bin\gswin32c.exe</ghostscript>
+		<soffice>.\libreoffice\program\soffice.exe</soffice>
+-->
+		<exiftool>.\exiftool\exiftool.exe</exiftool>
 		<exiftoolthumb>.\exiftool\exiftoolthumb.bat</exiftoolthumb>
 		<qt-faststart>.\ffmpeg\qt-faststart.exe</qt-faststart>
 		<unlock>.\unlocker\unlocker.exe</unlock>\
-		<soffice>.\libreoffice\program\soffice.exe</soffice>
 	</commandmap>
 </commandmaps>
