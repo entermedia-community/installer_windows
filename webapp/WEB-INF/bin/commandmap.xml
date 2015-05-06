@@ -22,8 +22,8 @@
 		<lame>.\lame\lame.exe</lame>
 		<ffmpeg>.\ffmpeg\ffmpeg.exe</ffmpeg>
 		<ffprobe>.\ffmpeg\ffprobe.exe</ffprobe>
-
-<!--		<convert>.\imagemagick\convert.exe</convert>
+		<convert>C:\entermedia\tools\im\convert.exe</convert>
+<!--		
 		<composite>.\imagemagick\composite.exe</composite>
 		<ghostscript>.\gs\bin\gswin32c.exe</ghostscript>
 		<soffice>.\libreoffice\program\soffice.exe</soffice>
